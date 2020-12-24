@@ -4,7 +4,6 @@ Unused or unecessary recipe keywords were filtered out by running a script multi
 
 
 Sources used for scraping data:
-
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset
 
 https://pypi.org/project/youtube-transcript-api/
