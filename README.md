@@ -11,3 +11,6 @@ https://www.kaggle.com/kaggle/recipe-ingredients-dataset
 https://pypi.org/project/youtube-transcript-api/
 
 https://developers.google.com/youtube/v3/getting-started
+
+Usage:
+python3 extractData (Your youtube API key) https://www.youtube.com/playlist?list=(video id 1) https://www.youtube.com/playlist?list=(video id 2) ...
