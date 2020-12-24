@@ -1,0 +1,989 @@
+ingredient, value
+bread, 1282
+butter, 1212
+pepper, 1170
+methi, 1163
+gin, 1134
+sugar, 1119
+cream, 1022
+garlic, 904
+flour, 842
+juice, 712
+cheese, 706
+milk, 698
+onions, 672
+olive oil, 670
+chicken, 665
+eggs, 603
+lemon, 601
+corn, 552
+rum, 539
+chili, 536
+rice, 528
+chocolate, 480
+ale, 465
+roast, 463
+bacon, 454
+bacon, 454
+coco, 427
+meal, 423
+toast, 413
+fish, 410
+vanilla, 402
+vinegar, 401
+boar, 385
+potatoes, 384
+tomatoes, 365
+nuts, 360
+ginger, 356
+dough, 346
+cinnamon, 343
+vegetables, 340
+rub, 336
+wine, 336
+ham, 332
+fruit, 329
+spices, 329
+icing, 326
+coconut, 324
+batter, 322
+salad, 307
+coriander, 306
+beef, 296
+honey, 283
+parsley, 282
+berries, 277
+crust, 263
+uni, 262
+beans, 246
+cumin, 238
+pork, 237
+mustard, 231
+yolk, 229
+carrots, 222
+soy, 220
+paprika, 219
+garnish, 217
+mushrooms, 207
+pasta, 202
+lime, 201
+peas, 198
+glaze, 197
+pastry, 195
+mint, 192
+curry, 191
+thyme, 176
+basil, 175
+starch, 167
+steak, 163
+sesame, 156
+herbs, 153
+baking soda, 153
+soy sauce, 152
+ice cream, 151
+jam, 148
+coffee, 141
+almonds, 141
+boiling water, 135
+cocoa, 134
+wheat, 131
+tuna, 128
+rosemary, 127
+yeast, 126
+sour cream, 124
+apples, 122
+cookies, 120
+noodles, 119
+cod, 116
+gluten, 116
+chicken stock, 111
+celery, 109
+plain flour, 108
+ketchup, 104
+garlic powder, 104
+cold water, 103
+spring onions, 102
+rye, 99
+shallots, 98
+cream cheese, 95
+vegetable oil, 93
+liver, 93
+wine vinegar, 93
+cocoa powder, 91
+cabbage, 90
+chuck, 90
+strawberries, 89
+nutmeg, 88
+canola, 87
+cayenne, 87
+beer, 85
+pies, 81
+bananas, 80
+citrus, 79
+buttermilk, 79
+fennel, 78
+buns, 77
+spaghetti, 77
+candy, 76
+peanuts, 75
+smoked paprika, 74
+sea salt, 70
+loin, 70
+chives, 68
+biscuits, 66
+jalape, 64
+cheddar cheese, 62
+chutney, 61
+prawns, 61
+cooking oil, 60
+pig, 57
+anise, 57
+cauliflower, 57
+sherry, 56
+sesame seeds, 56
+double cream, 56
+tortillas, 56
+vinaigrette, 56
+curry leaves, 56
+capers, 55
+fish sauce, 55
+virgin olive oil, 52
+mustard seeds, 52
+bay leaf, 51
+chicken thighs, 51
+pesto, 51
+cayenne pepper, 50
+sweet potatoes, 50
+fresh thyme, 47
+brandy, 46
+shells, 45
+garlic paste, 45
+pectin, 43
+tofu, 43
+caster sugar, 42
+roti, 42
+fennel seeds, 41
+rice wine, 41
+orange zest, 41
+black beans, 41
+lard, 40
+peppercorns, 40
+onion powder, 40
+crab, 39
+diced tomatoes, 38
+garlic cloves, 38
+barbecue sauce, 37
+ancho, 36
+chili sauce, 36
+tomato paste, 36
+canola oil, 35
+lobster, 34
+allspice, 34
+seafood, 33
+grapes, 33
+coriander seeds, 32
+brine, 32
+quinoa, 32
+sake, 31
+corn flour, 31
+goat, 31
+liquor, 30
+frozen peas, 30
+silver, 30
+fresh lemon juice, 30
+molasses, 29
+fresh chili, 27
+sourdough, 26
+brisket, 26
+bread dough, 26
+bean paste, 26
+sirloin, 25
+ramen, 25
+dried fruit, 25
+crushed garlic, 25
+asparagus, 25
+anchovies, 25
+fresh herbs, 24
+guacamole, 24
+white flour, 24
+chorizo, 24
+cheese sauce, 24
+roux, 24
+flat leaf parsley, 23
+white bread, 23
+milk chocolate, 23
+mutton, 23
+chard, 23
+pork belly, 22
+chicken wings, 22
+buffalo, 22
+basmati rice, 22
+extra-virgin olive oil, 21
+sherry vinegar, 21
+miso, 21
+roasted garlic, 21
+squirt, 21
+sunflower oil, 20
+drumstick, 20
+watercress, 20
+ground cumin, 20
+tartar sauce, 19
+pretzels, 19
+apricots, 19
+marzipan, 19
+croissants, 19
+chipotle, 18
+beef stock, 18
+dried oregano, 18
+chicken pieces, 18
+palm sugar, 17
+dark soy, 17
+tomato ketchup, 17
+ranch dressing, 17
+paneer, 17
+pastry cream, 17
+seaweed, 16
+gherkins, 16
+rabbit, 16
+squid, 16
+bacon bits, 16
+red bell pepper, 16
+baked beans, 16
+kaffir lime leaves, 16
+lime leaves, 16
+red chili powder, 16
+red bell pepper, 16
+couscous, 15
+fresh chives, 15
+cacao powder, 15
+macaroni, 14
+chiles, 14
+grapeseed oil, 14
+grated carrot, 14
+clams, 14
+cinnamon sticks, 14
+vermicelli, 14
+heavy whipping cream, 14
+gremolata, 14
+bechamel, 13
+short rib, 13
+rice flour, 13
+tumeric, 13
+raspberry jam, 13
+wild mushrooms, 13
+new potatoes, 13
+vodka, 12
+dry sherry, 12
+hot chili, 12
+fresh raspberries, 12
+sweet chili sauce, 12
+minced meat, 12
+roast beef, 11
+seasoning salt, 11
+beets, 11
+wheels, 11
+self raising flour, 11
+salami, 11
+tagliatelle, 11
+other vegetables, 11
+stout, 10
+mincemeat, 10
+baby spinach, 10
+root vegetables, 10
+diced onions, 10
+spring rolls, 10
+mixed vegetables, 10
+broccoli florets, 10
+beaten eggs, 10
+fillets, 10
+phyllo, 10
+ramen noodles, 9
+baguette, 9
+pork loin, 9
+bacon fat, 9
+meatloaf, 9
+oyster sauce, 9
+gnocchi, 9
+marrow, 8
+chimichurri, 8
+pasta sauce, 8
+pork tenderloin, 8
+caramels, 8
+shredded cheddar cheese, 8
+king prawns, 8
+English muffins, 8
+fresh yeast, 8
+fresh veget, 8
+licorice, 8
+catfish, 7
+morel, 7
+edamame, 7
+bok choy, 7
+fresh tarragon, 7
+tart shells, 7
+red pepper flakes, 7
+yams, 7
+celery salt, 7
+pickled onion, 7
+citron, 7
+frozen blueberries, 7
+lamb chops, 7
+firm tofu, 7
+ramps, 7
+kimchi, 6
+chili con carne, 6
+skirt steak, 6
+soda bread, 6
+sauerkraut, 6
+baby back ribs, 6
+lager, 6
+freshly ground pepper, 6
+rose water, 6
+cooked quinoa, 6
+medjool date, 6
+roma tomatoes, 6
+corned beef, 6
+orange peel, 6
+pecorino cheese, 6
+unsweetened cocoa powder, 6
+mustard powder, 5
+habanero, 5
+halibut, 5
+black tea, 5
+jackfruit, 5
+whisky, 5
+fresh oregano, 5
+spam, 5
+asafoetida powder, 5
+evaporated milk, 5
+fresh blueberries, 5
+ground cardamom, 5
+safflower, 5
+pink grapefruit, 5
+fructose, 5
+amchur, 5
+dipping sauces, 5
+yellow mustard, 5
+rice vermicelli, 5
+gingersnap, 5
+corn tortillas, 5
+yellow cake mix, 5
+roasted red peppers, 5
+soba noodles, 5
+butter beans, 4
+chopped green chilies, 4
+lemon peel, 4
+crabmeat, 4
+Italian bread, 4
+enchilada sauce, 4
+cocktail sauce, 4
+quail, 4
+pork rind, 4
+walnut pieces, 4
+thyme leaves, 4
+brown sauce, 4
+juniper berries, 4
+cream cheese frosting, 4
+wild rice, 4
+whole almonds, 4
+mochi, 4
+bonito flakes, 3
+sweet soy, 3
+flank steak, 3
+pickle juice, 3
+salted peanuts, 3
+San Marzano tomatoes, 3
+prosciutto, 3
+frozen raspberries, 3
+canned corn, 3
+tandoori paste, 3
+groundnut, 3
+soup mix, 3
+agar, 3
+Italian herbs, 3
+chopped walnuts, 3
+tomato salsa, 3
+bread mix, 3
+rice crackers, 3
+black gram, 3
+cardamon, 3
+banana chips, 3
+beef fat, 3
+dinner rolls, 3
+condensed cream, 3
+ground sausage, 3
+dried pasta, 3
+cooked turkey, 3
+fresh onion, 3
+chicken nugget, 3
+red rice, 3
+ground chuck, 3
+five-spice powder, 3
+chicken strips, 3
+chocolate curls, 3
+pineapple rings, 3
+pink peppercorns, 3
+diced potatoes, 3
+roasted almonds, 3
+pork bones, 2
+hot chili sauce, 2
+pasta sheets, 2
+duck breasts, 2
+lean beef, 2
+large potatoes, 2
+lasagna noodles, 2
+sugar pea, 2
+fruit cocktail, 2
+key lime, 2
+crescent rolls, 2
+free-range eggs, 2
+lamb shoulder, 2
+millet flour, 2
+sweet peas, 2
+cornbread mix, 2
+chicken parts, 2
+onion slices, 2
+filet mignon, 2
+corn chips, 2
+prepared horseradish, 2
+chocolate syrup, 2
+rainbow trout, 2
+red currant jelly, 2
+liquid aminos, 2
+blueberry jam, 2
+pitted cherries, 2
+lemon wedge, 2
+low-fat milk, 2
+unflavored gelatin, 2
+cream of mushroom soup, 2
+amaretto, 2
+toasted slivered almonds, 2
+shredded lettuce, 2
+gumbo, 2
+stir fry sauce, 2
+strong white bread flour, 2
+pea shoots, 2
+moong dal, 2
+baked ham, 2
+grated lemon zest, 2
+snow peas, 2
+Louisiana Hot Sauce, 2
+sticky rice, 2
+spelt flour, 2
+light corn syrup, 2
+chopped hazelnuts, 2
+vanilla pudding, 2
+pollock, 1
+chicken carcass, 1
+white miso, 1
+dried mushrooms, 1
+garlic chives, 1
+bacon drippings, 1
+cooked and drained, 1
+vin santo, 1
+oat bran, 1
+beef gravy, 1
+sliced shallots, 1
+duck liver, 1
+french onion soup, 1
+onion salt, 1
+diced celery, 1
+fresca, 1
+low-fat sour cream, 1
+adobo sauce, 1
+navel oranges, 1
+unsweetened vanilla almond milk, 1
+pumpernickel, 1
+food colouring, 1
+pepperoncini, 1
+diced yellow onion, 1
+brown gravy mix, 1
+cherry brandy, 1
+gumdrops, 1
+country gravy, 1
+dijon mustard, 1
+base sauce, 1
+pickled vegetables, 1
+pumpkin pie filling, 1
+stuffing mix, 1
+cooking fat, 1
+pimento stuffed olives, 1
+center cut bacon, 1
+spring roll wrappers, 1
+coconut extract, 1
+pearl onions, 1
+extra lean ground beef, 1
+daal, 1
+rotini, 1
+gochugaru, 1
+azuki bean, 1
+instant espresso powder, 1
+whole nutmegs, 1
+egg roll wrappers, 1
+liver pate, 1
+vanilla instant pudding, 1
+raspberry preserves, 1
+doritos, 1
+white rice flour, 1
+allspice berries, 1
+butter pecan ice cream, 1
+rose syrup, 1
+crab leg, 1
+hot fudge topping, 1
+frozen whipped topping, 1
+hot pepper sauce, 1
+orange glaze, 1
+powdered milk, 1
+sausage links, 1
+ginger piece, 1
+plum sauce, 1
+white rum, 1
+small curd cottage cheese, 1
+chickpea flour, 1
+full fat sour cream, 1
+wonton wrappers, 1
+ginger root, 1
+buttery spread, 1
+chicken livers, 1
+salmon roe, 1
+saki, 1
+hot chili paste, 1
+pickling salt, 1
+blackberry jam, 1
+M&Ms Candy, 0
+hog casings, 0
+bean dip, 0
+ginger garlic stir fry sauce, 0
+yellow tomato, 0
+beaujolais, 0
+young ginger, 0
+green leaf lettuce, 0
+oven-ready lasagna noodles, 0
+instant espresso granules, 0
+Oscar Mayer Bacon, 0
+pasta shells, 0
+no salt added chicken broth, 0
+light alfredo sauce, 0
+hot sausage, 0
+hushpuppy mix, 0
+green chile, 0
+turkey chili with beans, 0
+genoa salami, 0
+wide rice noodles, 0
+bottom round roast, 0
+traditional italian sauce, 0
+sweet potatoes & yams, 0
+bottled chili sauce, 0
+sugar pumpkin, 0
+pork top loin chops, 0
+hearts of palm, 0
+bone in chicken thighs, 0
+shrimp and crab boil seasoning, 0
+sambal ulek, 0
+white italian tuna in olive oil, 0
+curaçao, 0
+unsalted creamy peanut butter, 0
+meringue shells, 0
+fryer chickens, 0
+blackberry brandy, 0
+black truffles, 0
+matzo meal, 0
+frozen broccoli florets, 0
+extra light olive oil, 0
+curly endive, 0
+chunky tomato salsa, 0
+gluten free rice chex, 0
+full fat coconut milk, 0
+roast breast of chicken, 0
+unsulphured molasses, 0
+boneless skin on chicken thighs, 0
+cold-smoked salmon, 0
+dessert wine, 0
+Bragg Liquid Aminos, 0
+coffee extract, 0
+mild white fish, 0
+fajita size flour tortillas, 0
+white hominy, 0
+chicken consomme soup mix, 0
+diced beef, 0
+guava paste, 0
+mung bean noodles, 0
+italian style seasoning, 0
+brioche bread, 0
+haricots verts, 0
+fish bones, 0
+Success White Rice, 0
+McCormick Original Country Gravy Mix, 0
+chopped fresh chives, 0
+seedless cucumber, 0
+yellow miso, 0
+black forest ham, 0
+bean curd stick, 0
+burger style crumbles, 0
+fresh fava bean, 0
+shiro miso, 0
+bee pollen, 0
+asafetida powder, 0
+fresno chiles, 0
+cured beef, 0
+soy paste, 0
+oil cured olives, 0
+low fat mozzarella, 0
+Hatch Green Chiles, 0
+white cheddar cheese, 0
+Equal Sweetener, 0
+thick-cut bacon, 0
+adzuki beans, 0
+low sodium beef broth, 0
+Scotch whisky, 0
+vegetable slaw, 0
+italian rolls, 0
+nama yuba, 0
+gran marnier, 0
+beef shoulder roast, 0
+nonfat yogurt, 0
+avocado leaves, 0
+crimini mushrooms, 0
+lotus roots, 0
+Del Monte Diced Tomatoes, 0
+gluten-free tamari, 0
+black fungus, 0
+campanelle, 0
+frozen chopped broccoli, 0
+pastis, 0
+rice syrup, 0
+stir fry oil, 0
+hong kong-style noodles, 0
+Pompeian Canola Oil and Extra Virgin Olive Oil, 0
+phyllo sheets, 0
+all purpose unbleached flour, 0
+honey gold potatoes, 0
+carbonated water, 0
+short-grain rice, 0
+marshmallow creme, 0
+nopales, 0
+tomatoes on the vine, 0
+celery cabbage, 0
+hard cider, 0
+fresh chevre, 0
+pepperoni turkei, 0
+dress russian, 0
+frozen cheese ravioli, 0
+mild Italian sausage, 0
+dashi powder, 0
+recaito, 0
+boneless beef short ribs, 0
+banh trang, 0
+dried porcini mushrooms, 0
+fresh pork fat, 0
+country crock calcium plus vitamin d, 0
+shiso leaves, 0
+shirataki, 0
+long green pepper, 0
+low-fat baked tortilla chips, 0
+quick-cooking tapioca, 0
+farro, 0
+kecap manis, 0
+grape tomatoes, 0
+bartlett pears, 0
+pasta rotel, 0
+less sodium beef broth, 0
+cola-flavored carbonated beverage, 0
+boneless chicken breast halves, 0
+low-fat cheddar cheese, 0
+baking mix, 0
+trout fillet, 0
+puff pastry sheets, 0
+hungarian hot paprika, 0
+masoor dal, 0
+peach schnapps, 0
+unseasoned breadcrumbs, 0
+sliced olives, 0
+bouillon shrimp, 0
+shanghai-style noodles, 0
+baby portobello mushrooms, 0
+grilled chicken breasts, 0
+chili pepper flakes, 0
+sliced green olives, 0
+minced chicken, 0
+lambs liver, 0
+vegetable juice cocktail, 0
+prepared lasagne, 0
+large shrimp, 0
+low sodium canned chicken broth, 0
+crème de menthe, 0
+head cauliflower, 0
+calf liver, 0
+thai chile, 0
+cilantro leaves, 0
+rapini, 0
+creole style seasoning, 0
+vegetable gumbo, 0
+nonfat cream cheese, 0
+skinless chicken pieces, 0
+gluten free all purpose flour, 0
+shredded low-fat cheese, 0
+ground chicken breast, 0
+katakuriko, 0
+smooth pasta, 0
+cilantro sprigs, 0
+crushed cornflakes, 0
+ridged ziti, 0
+caciotta, 0
+konbu dashi, 0
+pork spare ribs, 0
+dried ziti, 0
+butter cake mix, 0
+no-salt-added black beans, 0
+Tabasco Green Pepper Sauce, 0
+low sodium store bought chicken stock, 0
+scallion greens, 0
+part-skim ricotta cheese, 0
+chili purée, 0
+açai powder, 0
+"""""""""""""""Frenchs Spicy Brown Mustard""""""""""""""", 0
+reduced fat milk, 0
+pizza doughs, 0
+fresh shiitake mushrooms, 0
+purple grapes, 0
+turkey thigh, 0
+top loin, 0
+horseradish root, 0
+tamarind concentrate, 0
+Saigon cinnamon, 0
+ham steak, 0
+frozen peeled prawns, 0
+fresh bean, 0
+self-rising cake flour, 0
+osetra caviar, 0
+cracked wheat, 0
+hot curry powder, 0
+taco rub, 0
+lamb stew meat, 0
+mezcal, 0
+medium firm tofu, 0
+herb mix, 0
+Sicilian olives, 0
+reduced sodium vegetable juice, 0
+soup pasta, 0
+yucca root, 0
+Spanish smoked paprika, 0
+veal chops, 0
+grated lemon peel, 0
+broccolini, 0
+cabernet sauvignon, 0
+soya flour, 0
+bread yeast, 0
+tzatziki, 0
+steamed brown rice, 0
+cook and drain, 0
+Goya Seasoning, 0
+channa dal, 0
+Amaretti Cookies, 0
+fresh leav spinach, 0
+sharp white cheddar cheese, 0
+diced red onions, 0
+Wish-Bone Italian Dressing, 0
+black quinoa, 0
+whole grain bread, 0
+gold tequila, 0
+long green chili peppers, 0
+chocolate candy bars, 0
+all potato purpos, 0
+blanched almonds, 0
+tarama, 0
+mushroom marinara, 0
+spaghettini, 0
+Old El Paso Taco Seasoning Mix, 0
+chili leaf, 0
+brazil nuts, 0
+boneless chicken cutlet, 0
+medium grain brown rice, 0
+diced mushrooms, 0
+fresh tuna steaks, 0
+seedless green grape, 0
+baby arugula, 0
+italian plum tomatoes, 0
+slab bacon, 0
+low-fat plain greek yogurt, 0
+grated sharp cheese, 0
+tilapia fillets, 0
+french dressing, 0
+adobo seasoning, 0
+chocolate instant pudding, 0
+cooked bone in ham, 0
+peeled deveined shrimp, 0
+cream lowfat, 0
+unsalted cashews, 0
+boneless country pork ribs, 0
+butter-flavored spray, 0
+pasilla chiles, 0
+Jell-O Gelatin, 0
+salad greens, 0
+togarashi, 0
+summer savory, 0
+beef rib roast, 0
+less sodium black beans, 0
+chicken thigh fillets, 0
+whole wheat linguine, 0
+black cardamom pods, 0
+pomegranate syrup, 0
+sorghum syrup, 0
+Daisy Brand Light Sour Cream, 0
+gumbo file, 0
+bone-in pork chops, 0
+cranberry juice, 0
+Thai Kitchen Fish Sauce, 0
+Japanese rice vinegar, 0
+anise flavoring, 0
+Anaheim chile, 0
+ ounc ziti pasta, 0
+cook and drain, 0
+poppyseeds, 0
+nonfat dry milk powder, 0
+chunky tomato sauce, 0
+canned chicken broth, 0
+unsweetened dried coconut, 0
+light rum, 0
+creole seasoning, 0
+skinless boneless chicken legs, 0
+dried bonito flakes, 0
+pink beans, 0
+mahi mahi, 0
+lobster meat, 0
+tamarind extract, 0
+pork strips, 0
+colby cheese, 0
+masa harina, 0
+coffee ice cream, 0
+stilton, 0
+green chile sauce, 0
+taglierini, 0
+loin pork chops, 0
+beef ribs, 0
+anise liqueur, 0
+semisweet chocolate chunks, 0
+jambalaya, 0
+peperoncini, 0
+rich chicken stock, 0
+fat free cream cheese, 0
+Haas avocados, 0
+baking yeast, 0
+whiting, 0
+cuban peppers, 0
+frisee, 0
+fresh basil leaves, 0
+pancit canton, 0
+chopped fresh sage, 0
+beef heart, 0
+frozen peppers and onions, 0
+cotechino, 0
+black bass, 0
+low sodium pasta sauce, 0
+fresh green peas, 0
+grated Gruyère cheese, 0
+spanish onion, 0
+no-salt-added diced tomatoes, 0
+marsala wine, 0
+grated cotija, 0
+mushroom soy sauce, 0
+low-fat tomato-and-basil pasta sauc, 0
+fresh mexican cheese, 0
+reduced fat provolone cheese, 0
+mild cheddar cheese, 0
+sambal olek, 0
+frozen limeade concentrate, 0
+ginger juice, 0
+cube steaks, 0
+petite peas, 0
+crema mexicana, 0
+maui onion, 0
+baby turnips, 0
+ground white pepper, 0
+wafer cookies, 0
+horse gram, 0
+rapid rise yeast, 0
+red enchilada sauce, 0
+shrimp paste, 0
+shoulder roast, 0
+country style italian bread, 0
+cajun seasoning, 0
+dried kidney beans, 0
+brown hash potato, 0
+dried black mushrooms, 0
+cornflake cereal, 0
+semisweet chocolate, 0
+padron peppers, 0
+rotini pasta, 0
+cook and drain, 0
+extra sharp white cheddar cheese, 0
+reduced fat cream of mushroom soup, 0
+Gourmet Garden garlic paste, 0
+crab boil, 0
+whole wheat fusilli, 0
+Mazola Corn Oil, 0
+Elmlea single, 0
+napa cabbage, 0
+lamb leg, 0
+frozen artichoke hearts, 0
+butter lettuce, 0
+kimchi juice, 0
+cheese ravioli, 0
+tortilla bowls, 0
+parmagiano reggiano, 0
+lamb kidneys, 0
+pumpernickel bread, 0
+Boursin Cheese with Garlic and Herbs, 0
+queso fresca, 0
+soft fresh goat cheese, 0
+grated kefalotiri, 0
+reduced-fat milk, 0
+tandoori spices, 0
+boneless pork tenderloin, 0
+fajita seasoning mix, 0
+unsalted roasted peanuts, 0
+port wine, 0
+shredded phyllo dough, 0
+vegetable bouillon, 0
+braggs liquid aminos, 0
+carne asada, 0
+head on shrimp, 0
+turnip greens, 0
+knockwurst, 0
+golden zucchini, 0
+mole paste, 0
+tangzhong roux, 0
+ear of corn, 0
+uncle bens, 0
+crisp-cooked and crumbled, 0
+sea bass fillets, 0
+greek style plain yogurt, 0
+sea salt flakes, 0
+cream cheese lowfat, 0
+epazote, 0
+lean ground meat, 0
+ampalaya, 0
+sweet bean sauce, 0
+vanilla low-fat frozen yogurt, 0
+rock candy syrup, 0
+chopped fresh mint, 0
+beef kidney, 0
+soy vermicelli, 0
+Boursin, 0
+sorghum flour, 0
+Nilla Wafers, 0
+italian moscato, 0
+canned beef broth, 0
+diet orange soda, 0
+less sodium smoked ham, 0
+toasted wheat germ, 0
+pork stew meat, 0
+chipotle sauce, 0
+fat free less sodium beef broth, 0
+dried tart cherries, 0
+chinese celery cabbage, 0
+knorr homestyl stock   chicken, 0
+low-fat shredded cheddar cheese, 0
+boneless beef chuck roast, 0
+cane syrup, 0
+Gochujang base, 0
