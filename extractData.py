@@ -10,7 +10,7 @@ import operator
 import sys
 
 # Youtube API Key
-api_key = sys.argv[1]
+api_key = 'your youtube API key'
 
 # format the file
 def format_file(file_dir):
