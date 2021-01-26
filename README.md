@@ -4,6 +4,9 @@ Unused or unecessary recipe keywords were filtered out by running a script multi
 of recipe keywords are outputted to YouTubeRecipesData.csv. frequency.csv calculates and updates how frequent a keyword ingredient was used.
 ## Requirements:
 
+Enable YouTube API v3 and get your API key at https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=intense-emblem-302908
+Paste your API key in extractdata.py and install the pip dependencies: 
+
 ```bash
 python3 -m pip install pandas
 python3 -m pip install youtube_transcript_api
