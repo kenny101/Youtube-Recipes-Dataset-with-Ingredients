@@ -24,3 +24,6 @@ Use the extractData.py to append more data to YouTubeRecipesData.csv. All files 
 python3 extractData (youtube playlist url 1) (youtube playlist url 2)...
 
 YouTube Playlist URLS begin with "https://www.youtube.com/playlist?list=". It will not work on individual video links
+
+## Preview:
+![dataset preview](https://github.com/kenny101/Youtube-Recipes-Dataset-with-Ingredients/blob/main/preview.jpg)
