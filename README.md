@@ -4,7 +4,7 @@ Unused or unecessary recipe keywords were filtered out by running a script multi
 of recipe keywords are outputted to YouTubeRecipesData.csv. frequency.csv calculates and updates how frequent a keyword ingredient was used.
 
 
-Sources used for scraping data:
+## Sources used:
 
 https://www.kaggle.com/kaggle/recipe-ingredients-dataset
 
@@ -14,7 +14,7 @@ https://developers.google.com/youtube/v3/getting-started
 
 Use the extractData.py to append more data to YouTubeRecipesData.csv. All files should be in the same directory.
 
-Usage:
+## Usage:
 python3 extractData (Your youtube API key) (youtube playlist url 1) (youtube playlist url 2)...
 
 YouTube Playlist URLS begin with "https://www.youtube.com/playlist?list=". It will not work on individual video links
