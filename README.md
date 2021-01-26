@@ -12,7 +12,7 @@ https://pypi.org/project/youtube-transcript-api/
 
 https://developers.google.com/youtube/v3/getting-started
 
-Use the extractData.py to append more data to YouTubeRecipesData.csv. For this script to work properly, all files should be in the same directory.
+Use the extractData.py to append more data to YouTubeRecipesData.csv. All files should be in the same directory for this to work properly.
 
 ## Usage:
 python3 extractData (youtube playlist url 1) (youtube playlist url 2)...
