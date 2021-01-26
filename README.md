@@ -15,6 +15,6 @@ https://developers.google.com/youtube/v3/getting-started
 Use the extractData.py to append more data to YouTubeRecipesData.csv. All files should be in the same directory.
 
 ## Usage:
-python3 extractData (Your youtube API key) (youtube playlist url 1) (youtube playlist url 2)...
+python3 extractData (youtube playlist url 1) (youtube playlist url 2)...
 
 YouTube Playlist URLS begin with "https://www.youtube.com/playlist?list=". It will not work on individual video links
