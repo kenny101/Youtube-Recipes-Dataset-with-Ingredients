@@ -1,7 +1,7 @@
 # Youtube-Recipes-Dataset-with-Ingredients
-This dataset was scraped using YouTube API v3, ![youtube_transcript_api](https://pypi.org/project/youtube-transcript-api/), an open-source python pip package that extract transcipts from videos, and a kaggle dataset containing recipe keywords.
-Unused or unecessary recipe keywords were filtered out by running a script multiple times on thousands of youtube videos. The video title, thumbnail url, video url, and list
-of recipe keywords are outputted to YouTubeRecipesData.csv. frequency.csv calculates and updates how frequent a keyword ingredient was used.
+This dataset was scraped using ![YouTube API v3](https://developers.google.com/youtube/v3/getting-started), ![youtube_transcript_api](https://pypi.org/project/youtube-transcript-api/), an open-source python pip package that extract transcipts from videos, and a ![kaggle dataset](https://www.kaggle.com/kaggle/recipe-ingredients-dataset) containing recipe keywords.
+Rarely used or unecessary recipe keywords with brand names were filtered out by running a script multiple times on thousands of youtube videos. The video title, thumbnail url, video url, and list
+of recipe keywords are outputed to YouTubeRecipesData.csv. frequency.csv calculates and updates how frequent a keyword ingredient was used.
 ## Requirements:
 
 Enable YouTube API v3 and get your API key at https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=intense-emblem-302908
